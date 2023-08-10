@@ -36,4 +36,4 @@ A "QR code card" is a card that features a printed QR code (Quick Response) on i
 ## Author
 
 - Frontend Mentor - [@Geovanex24](https://www.frontendmentor.io/profile/Geovanex24)
-- Twitter - [@@geovanex24](https://www.twitter.com/geovanex24)
+- Twitter - [@geovanex24](https://www.twitter.com/geovanex24)
