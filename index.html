@@ -5,16 +5,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- displays site properly based on user's device -->
-  <meta name="description" content="Frontend Mentor Challenge || QR card component. By Geovanni Fernández">
+  <meta name="description" content="Frontend Mentor Challenge || QR code component. By Geovanni Fernández">
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   <title>Frontend Mentor | QR code component</title>
 
+  <!-- Preload -->
+  <link rel="preload" href="css/normalize.css" as="style">
   <link rel="stylesheet" href="css/normalize.css">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
 
+  <link rel="preload" href="css/styles.css" as="style">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 
@@ -22,7 +25,7 @@
 
   <div class="container">
     <div class="card">
-      <img class="card__image" src="/images/image-qr-code.png" width="375" height="275" alt="QR Image">
+      <img class="card__image" src="/images/image-qr-code.png" width="375" height="275" alt="QR Image" loading="lazy">
       <div class="card__content">
         <h1 class="card__heading">Improve your front-end skills by building projects</h1>
         <p class="card__description">
@@ -30,7 +33,7 @@
         </p>
       </div>
 
-    </div>
+    </div> <!-- .card -->
     <div class="attribution">
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
       Coded by <a href="https://www.frontendmentor.io/profile/Geovanex24">Geovanni Fernández Elizondo</a>.
