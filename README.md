@@ -22,7 +22,7 @@ A "QR code card" is a card that features a printed QR code (Quick Response) on i
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-component-html-and-css-T_w-xgQ_Bb)
-- Live Site URL: [https://frontendmentor-qr-card-geovanni.netlify.app/](https://frontendmentor-qr-card-geovanni.netlify.app/)
+- Live Site URL: [https://qr-card-component-gfz.netlify.app/](https://qr-card-component-gfz.netlify.app/)
 
 ## My process
 
